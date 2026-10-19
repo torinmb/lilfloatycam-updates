@@ -1,0 +1,2 @@
+- The app now shows in the Dock. Click its icon to open the controls (turn this off in Settings → Advanced)
+- Resize grips and the corner radius dot are easier to see on any background
