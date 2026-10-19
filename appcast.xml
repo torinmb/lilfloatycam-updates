@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Lil Floaty Cam</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Mon, 19 Oct 2026 10:04:55 -0500</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://torinmb.github.io/lilfloatycam-updates/LilFloatyCam-1.0.zip" length="3424020" type="application/octet-stream" sparkle:edSignature="y2yb8afkoUpL+RW5TXwMHH+HvKo+4OXHSQEU801iOFIjB4PcCj8r1jdKQhHOuZyHCFcROmhO9nOKs3WiGf7GBQ=="/>
+        </item>
+    </channel>
+</rss>
