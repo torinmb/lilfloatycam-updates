@@ -1,0 +1,1 @@
+- Choose the camera's aspect ratio right from the menu, just below Camera
