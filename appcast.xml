@@ -3,6 +3,25 @@
     <channel>
         <title>Lil Floaty Cam</title>
         <item>
+            <title>1.7</title>
+            <pubDate>Mon, 19 Oct 2026 14:47:16 -0500</pubDate>
+            <sparkle:fullReleaseNotesLink>https://torinmb.github.io/lilfloatycam-updates/changelog/</sparkle:fullReleaseNotesLink>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- The app now shows in the Dock. Click its icon to open the controls (turn this off in Settings → Advanced)
+- Resize grips and the corner radius dot are easier to see on any background
+]]></description>
+            <enclosure url="https://torinmb.github.io/lilfloatycam-updates/LilFloatyCam-1.7.zip" length="3485710" type="application/octet-stream" sparkle:edSignature="URDoH8s9kL34fpFBOetCA4xUs5ACbJ14i7XUs3asA1Fgn0Bc3Rmgs8HSyusigibekbt4rn3C81kW9pfXPSreAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://torinmb.github.io/lilfloatycam-updates/Lil%20Floaty%20Cam9-8.delta" sparkle:deltaFrom="8" length="118154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SdSkcgnSyZIQ5A5/rjDbkXY+3isKOrU3yqJmrmcXFU26+xuBWg0uM+1QC82bGKcJFgLStGxTwjrNASOO8+bYBQ=="/>
+                <enclosure url="https://torinmb.github.io/lilfloatycam-updates/Lil%20Floaty%20Cam9-7.delta" sparkle:deltaFrom="7" length="149598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PrASB2wQ1QtEqqSo9D0dZCBdaFmzvLEyOaSg+CumV2ne30uHj5L9TBPiPMAhlz29I7A5DgB7bzkpQ/X6JM9mDw=="/>
+                <enclosure url="https://torinmb.github.io/lilfloatycam-updates/Lil%20Floaty%20Cam9-6.delta" sparkle:deltaFrom="6" length="151262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ThT9zE/ZPLdWpHA7nX26qEFei+kSALRsnaxLFA0GsITkYN/LOFjm17KT3gLYudqA4XAW5dO70g1Md1m9J1ULDA=="/>
+                <enclosure url="https://torinmb.github.io/lilfloatycam-updates/Lil%20Floaty%20Cam9-5.delta" sparkle:deltaFrom="5" length="158610" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xC+LRbnd2Px9zkYBT3qf9hYiOaoH2igNSub6Sa14Q5Ksp+sc5dFGFjLYqe7uY0MG6Ho49wJZ6awkVjnoIUY0Cg=="/>
+                <enclosure url="https://torinmb.github.io/lilfloatycam-updates/Lil%20Floaty%20Cam9-4.delta" sparkle:deltaFrom="4" length="168482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AgSVJ5w4SPGsELnb+ldbazQnnA9wjQ21Lb4PgquAquwvaLNvhE6oRXVBDmx4j//taSTwZm3A6jw04PeiIbpXCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.6</title>
             <pubDate>Mon, 19 Oct 2026 14:20:48 -0500</pubDate>
             <sparkle:fullReleaseNotesLink>https://torinmb.github.io/lilfloatycam-updates/changelog/</sparkle:fullReleaseNotesLink>
@@ -37,23 +56,6 @@
                 <enclosure url="https://torinmb.github.io/lilfloatycam-updates/Lil%20Floaty%20Cam7-4.delta" sparkle:deltaFrom="4" length="105594" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sF49bJhDyMnENii88vwJT/QH6R4RT3b/8bJCbcBr6KluIO6r5Xppy0YAIY4gujiYpqDOSw+MnnH8v/y3DuTYBw=="/>
                 <enclosure url="https://torinmb.github.io/lilfloatycam-updates/Lil%20Floaty%20Cam7-3.delta" sparkle:deltaFrom="3" length="177838" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="f6ObqnH/cHrfXgk4gPWotFxzxxsWowKv6sYKuPBz5vGx/Xoq2nvL0zPAxISHCAa0kvO7VkmuQ4UxQ2B9NLxVCA=="/>
                 <enclosure url="https://torinmb.github.io/lilfloatycam-updates/Lil%20Floaty%20Cam7-2.delta" sparkle:deltaFrom="2" length="177582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GxmqExAVheibo6LSX3TS4IcN6DXGS5eQywkd1KFiU81s5g6KaltZ+lnV23YOvu154e2wDnJ0fEVdiRWhk6q0CA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.4</title>
-            <pubDate>Mon, 19 Oct 2026 13:15:48 -0500</pubDate>
-            <sparkle:fullReleaseNotesLink>https://torinmb.github.io/lilfloatycam-updates/changelog/</sparkle:fullReleaseNotesLink>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Choose the camera's aspect ratio right from the menu, just below Camera
-]]></description>
-            <enclosure url="https://torinmb.github.io/lilfloatycam-updates/LilFloatyCam-1.4.zip" length="3468005" type="application/octet-stream" sparkle:edSignature="HvDT3aL0czii3MJ4eo5kCA0bzaqACcsEmIE08fTJZiZVsu4HsGk0ZBojBAWWNuuhf9+HeQIq35sWG/BVh79tBw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://torinmb.github.io/lilfloatycam-updates/Lil%20Floaty%20Cam6-5.delta" sparkle:deltaFrom="5" length="80886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hzMe2o7+L6DUu60FaztBovTLq7osfXaa0g7Yf31Uo4B4aURTOMu6n/Wn1GqLSS/zwT90rbk0H8X5e/VkvTUkBg=="/>
-                <enclosure url="https://torinmb.github.io/lilfloatycam-updates/Lil%20Floaty%20Cam6-4.delta" sparkle:deltaFrom="4" length="97198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lCSBMf7QZNOZ+h4X2LgLW3oAQlgTZKLCwO378dvHe7S5CVU+m2SBD4yO7oj7se5LTS8loV4i53vsHsrwnOddAw=="/>
-                <enclosure url="https://torinmb.github.io/lilfloatycam-updates/Lil%20Floaty%20Cam6-3.delta" sparkle:deltaFrom="3" length="180662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EXbq316AnQrA8k/20QT8usmoqt+1VFbrAB7ZKDORYfSfVSbDGsgnb6KruhQBqtYbOeqWN0dKho5UjXQ4MD2LDA=="/>
-                <enclosure url="https://torinmb.github.io/lilfloatycam-updates/Lil%20Floaty%20Cam6-2.delta" sparkle:deltaFrom="2" length="180154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dzrZRA9h9f5FCegAOSKCtwEJHN2kJJbeq9vBSjxqThknRNjIKOOy57WGmwu2G0zm0oM8iPm09zLstibSkCDLBg=="/>
             </sparkle:deltas>
         </item>
     </channel>
