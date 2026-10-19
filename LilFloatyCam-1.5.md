@@ -1,0 +1,1 @@
+- Removed the ripple when the cursor first moves over the camera; click and edge-bounce ripples are unchanged
