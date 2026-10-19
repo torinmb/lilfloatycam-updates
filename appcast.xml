@@ -3,6 +3,17 @@
     <channel>
         <title>Lil Floaty Cam</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Mon, 19 Oct 2026 10:46:21 -0500</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://torinmb.github.io/lilfloatycam-updates/LilFloatyCam-1.1.zip" length="3423996" type="application/octet-stream" sparkle:edSignature="NHUcSLAmRY5vJf/Qg4wDOAbRLrPYTFtP/+hM0Go2xyQ+WM4s5qos6es1zR/hhQFqDdkMX6WtkSXaDiUZ5mrlCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://torinmb.github.io/lilfloatycam-updates/Lil%20Floaty%20Cam3-2.delta" sparkle:deltaFrom="2" length="11662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+Px3wO440QY/SxAQQVoLbC8wEvO6zUokxzDLoJgl47z2L9apo0udPCZd/o3/1OmNRBTJLmyHNlZ3SCiexYLQDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Mon, 19 Oct 2026 10:04:55 -0500</pubDate>
             <sparkle:version>2</sparkle:version>
