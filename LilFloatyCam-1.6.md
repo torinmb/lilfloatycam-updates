@@ -1,0 +1,2 @@
+- Tooltips on the resize grips, corner radius dot and hover toolbar buttons
+- Menu switches now show your accent color when on, including on macOS 26
