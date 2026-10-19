@@ -1,0 +1,1 @@
+- Updates now pop up when one is available, and the app checks every time it launches
