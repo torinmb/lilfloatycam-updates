@@ -1,0 +1,1 @@
+- Added the app version to Settings so you can confirm an update installed
