@@ -1,0 +1,2 @@
+- With Remove Background on, only you catch clicks and drags; clicks outside your cutout pass through to the apps underneath
+- Resize and corner radius grips appear when you hover the cutout (hidden in Streaming Mode)
