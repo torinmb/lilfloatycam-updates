@@ -1,0 +1,4 @@
+- Drag any corner of the camera to resize it, and drag the dot on the top edge to change the corner radius
+- Reorganized menu with icons, plus an Auto-Check for Updates toggle
+- Full screen now covers the Dock and menu bar, and is click-through with a transparent background
+- Larger, easier-to-grab border that stays visible while you drag
