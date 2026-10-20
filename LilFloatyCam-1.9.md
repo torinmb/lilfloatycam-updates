@@ -1,0 +1,4 @@
+- Resize handles are now thin arcs on the corners that appear at the corner nearest your cursor
+- Four corner radius dots slide along the edge from square to circle to square, and ease onto the circle in the middle
+- Corner radius stays proportional when you resize the camera, so a circle stays a circle
+- Smoother corner radius dragging
